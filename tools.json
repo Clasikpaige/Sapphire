@@ -3,7 +3,7 @@
     "id": "tool1",
     "name": "phishing page",
     "description": "A powerful phishlet with active payload to capture login credentials and session cookies.",
-    "price": $2,500.00
+    "price": 2,500.00
   },
   {
     "id": "tool2",
