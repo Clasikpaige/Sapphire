@@ -1,0 +1,14 @@
+[
+  {
+    "id": "tool1",
+    "name": "Tool 1",
+    "description": "A powerful software tool.",
+    "price": 10
+  },
+  {
+    "id": "tool2",
+    "name": "Tool 2",
+    "description": "Another useful tool.",
+    "price": 20
+  }
+]
