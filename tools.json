@@ -1,14 +1,14 @@
 [
   {
     "id": "tool1",
-    "name": "Tool 1",
-    "description": "A powerful software tool.",
-    "price": 10
+    "name": "phishing page",
+    "description": "A powerful phishlet with active payload to capture login credentials and session cookies.",
+    "price": $2,500.00
   },
   {
     "id": "tool2",
-    "name": "Tool 2",
-    "description": "Another useful tool.",
+    "name": "Keylogger",
+    "description": "keylogger, remote access trojan compiled as .exe , pdf, url .",
     "price": 20
   }
 ]
